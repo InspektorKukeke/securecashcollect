@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cashcollect</string>
+    <string name="welcome">Welcome to The Art Gallery. We provide all kinds of art from each culture and continent.</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="email">Email Address</string>
+    <string name="Name">Name</string>
+    <string name="password">Password</string>
+    <string name="underconstruction">UNDER CONSTRUCTION</string>
+
+</resources>
